@@ -18,5 +18,5 @@ I am particularly curious about the mathematical foundations of modern learning 
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/arseneclaustre)  
+- [LinkedIn](https://www.linkedin.com/in/arsene-claustre-2189b1207/)  
 - [Email](mailto:arsene.claustre@gmail.com)
