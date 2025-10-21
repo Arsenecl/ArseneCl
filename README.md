@@ -10,10 +10,10 @@ I am particularly curious about the mathematical foundations of modern learning 
 
 ## Selected Projects
 
-- [Score-Based Generative Models with SDEs](https://github.com/arseneclaustre/diffusion-models-thesis)  
+- [Score-Based Generative Models with SDEs](https://github.com/Arsenecl/diffusion-models-thesis)  
   Final research thesis and notebooks on generative modeling using stochastic differential equations (VP SDE, COU model, Wasserstein bounds).
 
-- [Reinforcement Learning for Traffic Light Control](https://github.com/arseneclaustre/traffic-light-rl)  
+- [Reinforcement Learning for Traffic Light Control](https://github.com/Arsenecl/traffic-light-rl)  
   Deep RL project using SUMO simulations and DQN variants for multi-agent intersection coordination.
 
 ## Contact
