@@ -10,7 +10,7 @@ I am particularly curious about the mathematical foundations of modern learning 
 
 ## Selected Projects
 
-- [Score-Based Generative Models with SDEs](https://github.com/Arsenecl/diffusion-models-thesis)  
+- [Score-Based Generative Models with SDEs](https://github.com/Arsenecl/diffusion_models_thesis)  
   Final research thesis and notebooks on generative modeling using stochastic differential equations (VP SDE, COU model, Wasserstein bounds).
 
 - [Reinforcement Learning for Traffic Light Control](https://github.com/Arsenecl/traffic-light-rl)  
