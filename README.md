@@ -1,16 +1,22 @@
-## Hi there 👋
+# Arsène Claustre
 
-<!--
-**Arsenecl/ArseneCl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc MVA student at ENS Paris-Saclay | Applied Mathematics, Machine Learning and Generative Models
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a master's student at ENS Paris-Saclay (Mathematics, Vision, Learning), with a strong background in applied mathematics and an interest in theoretical and practical aspects of machine learning.
+
+I am particularly curious about the mathematical foundations of modern learning systems, including probabilistic modeling, optimization, and generative approaches such as diffusion models. I also enjoy working on applied projects that involve numerical methods and real-world data.
+
+## Selected Projects
+
+- [Score-Based Generative Models with SDEs](https://github.com/arseneclaustre/diffusion-models-thesis)  
+  Final research thesis and notebooks on generative modeling using stochastic differential equations (VP SDE, COU model, Wasserstein bounds).
+
+- [Reinforcement Learning for Traffic Light Control](https://github.com/arseneclaustre/traffic-light-rl)  
+  Deep RL project using SUMO simulations and DQN variants for multi-agent intersection coordination.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/arseneclaustre)  
+- [Email](mailto:arsene.claustre@gmail.com)
